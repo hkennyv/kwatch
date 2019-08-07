@@ -28,11 +28,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:klib
+LIBS:kwatch-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -43,9 +45,15 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 6200 4000 1025 1375
-U 5D4A42AA
-F0 "Sheet5D4A42A9" 60
-F1 "file5D4A42A9.sch" 60
+S 7900 3425 1075 1325
+U 5D4A4A2E
+F0 "display" 60
+F1 "display.sch" 60
+F2 "DISPLAY_BKLGHT" I L 7900 3625 60 
+F3 "DISPLAY_SDA" I L 7900 3825 60 
+F4 "DISPLAY_WR" I L 7900 3925 60 
+F5 "DISPLAY_SCL" I L 7900 4025 60 
+F6 "DISPLAY_CS" I L 7900 4125 60 
+F7 "DISPLAY_RST" I L 7900 4225 60 
 $EndSheet
 $EndSCHEMATC
