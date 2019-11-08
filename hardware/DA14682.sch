@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 4 6
 Title ""
 Date ""
 Rev ""
@@ -44,4 +44,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Notes 4125 3775 0    60   ~ 0
+datasheet for DA14682\n\nTODO: create sch symbol and footprint for DA14682\n\nhttps://www.dialog-semiconductor.com/sites/default/files/da14682_ds_3v1.pdf
 $EndSCHEMATC

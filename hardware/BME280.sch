@@ -51,7 +51,8 @@ P 6100 4225
 F 0 "U?" H 6100 4325 60  0000 C CNN
 F 1 "BME280" H 6100 4225 60  0000 C CNN
 F 2 "" H 6100 4225 60  0001 C CNN
-F 3 "" H 6100 4225 60  0001 C CNN
+F 3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf" H 6100 4225 60  0001 C CNN
+F 4 "BME280" H 6100 4225 60  0001 C CNN "MPN"
 	1    6100 4225
 	1    0    0    -1  
 $EndComp
